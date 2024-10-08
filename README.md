@@ -1,3 +1,6 @@
+# ***✨ Dorothy Luo ✨***
+
+  
 - 👋 Hi, I’m Dorothy Luo
 - 👀 I’m interested in programming, mathematics, ballet, etc
 - 🌱 I’m currently learning Java and Python
