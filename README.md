@@ -4,10 +4,10 @@
 - 👋 Hi, I’m Dorothy Luo
 - 👀 I’m interested in programming, mathematics, ballet, etc
 - 🌱 I’m currently learning Java and Python
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on creating and managing my own website
 - 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm currently in 11th grade!
 - 👨‍💻 All of my projects are available at: https://github.com/dorhaLuo?tab=repositories
 - 📫 How to reach me: dorahluo@gmail.com
 
