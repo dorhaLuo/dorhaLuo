@@ -1,10 +1,3 @@
-# ***✨ Dorothy Luo ✨***
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorhaluo" alt="dorhaluo" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorhaluo&label=Profile%20views&color=0e75b6&style=flat" alt="dorhaluo" /> </p>
-<p align="center">  <img width="1" alt="image" src="https://github.com/user-attachments/assets/0477a461-cf35-45ab-b8e5-8cd761435fa9">
-
-
 <h1 align="center">Hi 👋, I'm Dorothy Luo</h1>
 <h3 align="center">A passionate frontend developer from Shanghai and Georgia</h3>
 
@@ -17,6 +10,13 @@
 - 👨‍💻 All of my projects are available at: **https://github.com/dorhaLuo?tab=repositories**
 - 📫 How to reach me: **dorahluo@gmail.com**
 
+
+<p align="center">  <img width="1" alt="image" src="https://github.com/user-attachments/assets/0477a461-cf35-45ab-b8e5-8cd761435fa9">
+  
+# ***✨ Dorothy Luo ✨***
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorhaluo" alt="dorhaluo" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorhaluo&label=Profile%20views&color=0e75b6&style=flat" alt="dorhaluo" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
