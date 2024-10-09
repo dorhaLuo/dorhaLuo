@@ -23,17 +23,22 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 📚Languages and Tools: </h3>
+
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<img width="34" alt="image" src="https://github.com/user-attachments/assets/2cebdcdd-8845-42f1-be99-7d9b14c5e34d">
 
+
+## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorhaluo&show_icons=true&theme=highcontrast&title_color=ffffff&locale=en&layout=compact" alt="dorhaluo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorhaluo&show_icons=true&theme=highcontrast&title_color=bcb8ff&text_color=ffffff&locale=en" alt="dorhaluo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorhaluo&theme=highcontrast" alt="dorhaluo" /></p>
 
-
+### ✍️ A Daily Quote about CS
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!---
 dorhaLuo/dorhaLuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
