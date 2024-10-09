@@ -1,24 +1,21 @@
 # ***✨ Dorothy Luo ✨***
 
-  
-- 👋 Hi, I’m Dorothy Luo
-- 👀 I’m interested in programming, mathematics, ballet, etc
-- 🌱 I’m currently learning Java and Python
-- 🔭 I’m currently working on creating and managing my own website
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dorhaluo" alt="dorhaluo" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dorhaluo&label=Profile%20views&color=0e75b6&style=flat" alt="dorhaluo" /> </p>
+<p align="center">  <img width="1" alt="image" src="https://github.com/user-attachments/assets/0477a461-cf35-45ab-b8e5-8cd761435fa9">
+
+
+<h1 align="center">Hi 👋, I'm Dorothy Luo</h1>
+<h3 align="center">A passionate frontend developer from Shanghai and Georgia</h3>
+
+- 👀 I’m interested in **programming, mathematics, ballet, etc**
+- 🌱 I’m currently learning **Java and Python**
+- 🔭 I’m currently working on **creating and managing my own website**
 - 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm currently in 11th grade!
-- 👨‍💻 All of my projects are available at: https://github.com/dorhaLuo?tab=repositories
-- 📫 How to reach me: dorahluo@gmail.com
-
-### Languages
-<img width="24" alt="image" src="https://github.com/user-attachments/assets/ea222f71-d1da-4d8c-898a-3646ad225f5d">
- Python
-
-
- <img width="27" alt="image" src="https://github.com/user-attachments/assets/d5931984-c48d-4663-ad9f-3e29a3e38d0a">
- C#
-
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: **I'm currently in 11th grade!**
+- 👨‍💻 All of my projects are available at: **https://github.com/dorhaLuo?tab=repositories**
+- 📫 How to reach me: **dorahluo@gmail.com**
 
 
 
